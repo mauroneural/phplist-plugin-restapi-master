@@ -1,1 +1,0 @@
-# phplist-plugin-restapi-master
